@@ -9,7 +9,7 @@ A list of news resources, Youtube channels, podcasts and blogs which cover the I
 5. [Keeping Up With India:](https://hind.substack.com/) A newsletter that covers all the latest news and trends in the Indian start-up ecosystem.
 6. [Keeping Up with the EV:](https://keepingupwithev.substack.com/) A substack devoted to the ever evolving field of electric vehicles.
 7. [ET RISE: ](https://economictimes.indiatimes.com/small-biz/startups) Economic Times page focused on the Indian startup scene.
-8. [Forbes Inia startup](https://www.forbesindia.com/startups/1559/1) Forbes India's page for startup news.
+8. [Forbes India startup](https://www.forbesindia.com/startups/1559/1) Forbes India's page for startup news.
 9. [Blume Ventures blog:](https://blume.vc/blog/) A blog from blume ventures, an India based VC firm. 
 
 
