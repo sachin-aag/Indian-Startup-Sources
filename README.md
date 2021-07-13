@@ -41,4 +41,4 @@ A list of news resources, Youtube channels, podcasts and blogs which cover the I
 18. [Purple quarter](https://open.spotify.com/show/2TAjn49BDocf5y1cctMQLe?si=YFVTtICjTYqYjZVMvhutUQ&dl_branch=1) A podcast featuringfounders from the tech startup ecosystem. 
 19. [Founders unfiltered](https://open.spotify.com/show/2xJUdpwNKS1VmbtnWXZrE6?si=c91UrD1qTbiF-rPGWZ9YOg&dl_branch=1) Unscripted conversations with startup founders. From the writers of A junior VC blog. 
 
-
+If you have any further resources you would like to add, feel free to create an issue or make A PR.
