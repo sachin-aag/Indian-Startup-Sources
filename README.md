@@ -11,6 +11,8 @@ A list of news resources, Youtube channels, podcasts and blogs which cover the I
 7. [ET RISE: ](https://economictimes.indiatimes.com/small-biz/startups) Economic Times page focused on the Indian startup scene.
 8. [Forbes India startup](https://www.forbesindia.com/startups/1559/1) Forbes India's page for startup news.
 9. [Blume Ventures blog:](https://blume.vc/blog/) A blog from blume ventures, an India based VC firm. 
+10. [Inc 42 Blog:](https://inc42.com/) Inc42 is a leading Indian media and information platform, known for its end-to-end coverage of the Indian startup ecosystem.
+11. [Entrackr Blog:](https://entrackr.com/) Entrackr is a new age media platform for entrepreneurs, startups and technology enthusiasts.
 
 
 ## Youtube channels
