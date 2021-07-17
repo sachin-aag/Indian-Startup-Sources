@@ -13,6 +13,7 @@ A list of news resources, Youtube channels, podcasts and blogs which cover the I
 9. [Blume Ventures blog:](https://blume.vc/blog/) A blog from blume ventures, an India based VC firm. 
 10. [Inc 42 Blog:](https://inc42.com/) Inc42 is a leading Indian media and information platform, known for its end-to-end coverage of the Indian startup ecosystem.
 11. [Entrackr Blog:](https://entrackr.com/) Entrackr is a new age media platform for entrepreneurs, startups and technology enthusiasts.
+12. [Business Bar:](https://businessbar.net/) Stories where business meets casual and numbers meet narratives!
 
 
 ## Youtube channels
