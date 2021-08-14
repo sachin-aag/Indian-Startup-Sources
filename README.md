@@ -43,6 +43,7 @@ A list of news resources, Youtube channels, podcasts and blogs which cover the I
 16. [Right Now](https://open.spotify.com/show/0dPnBzTxmxPbHTVZNN3PyP?si=p66ltTQIT6emvb5O-ZZ-Sg&dl_branch=1) Semi-formal conversations with founders and mentors. 
 17. [Health Tech Narrative podcast](https://open.spotify.com/show/2Tqlqci4rSMlMFJpCHWV7L?si=KsnFULKcQVaLsaiBT1yF3w&dl_branch=1) A podcast focusing on health tech startups in India. 
 18. [Purple quarter](https://open.spotify.com/show/2TAjn49BDocf5y1cctMQLe?si=YFVTtICjTYqYjZVMvhutUQ&dl_branch=1) A podcast featuringfounders from the tech startup ecosystem. 
-19. [Founders unfiltered](https://open.spotify.com/show/2xJUdpwNKS1VmbtnWXZrE6?si=c91UrD1qTbiF-rPGWZ9YOg&dl_branch=1) Unscripted conversations with startup founders. From the writers of A junior VC blog. 
+19. [Founders unfiltered](https://open.spotify.com/show/2xJUdpwNKS1VmbtnWXZrE6?si=c91UrD1qTbiF-rPGWZ9YOg&dl_branch=1) Unscripted conversations with startup founders. From the writers of A junior VC blog.
+20. [100x entrepreneuer](https://open.spotify.com/show/73VanEvg9Rhp2SOOJPFaav) Bringing you the best of leaders from the VC & Startup community sharing their mindsets, milestones, and growth stories.
 
 If you have any further resources you would like to add, feel free to create an issue or make A PR.
