@@ -15,6 +15,7 @@ A list of news resources, Youtube channels, podcasts and blogs which cover the I
 11. [Entrackr Blog:](https://entrackr.com/) Entrackr is a new age media platform for entrepreneurs, startups and technology enthusiasts.
 12. [Business Bar:](https://businessbar.net/) Stories where business meets casual and numbers meet narratives!
 13. [Best startup Asia:](https://beststartup.asia/) Startup stories from across Asia. 
+14. [Startup Story:](https://startupstorymedia.com/) Startup story is a platform designed to promote businesses and entrepreneurs, prioritising ventures that are left overlooked and unrecognised in the Indian startup ecosystem i.e the startups from tier 2, tier 3 and tier 4 cities but are progressively succeeding.
 
 
 ## Youtube channels
