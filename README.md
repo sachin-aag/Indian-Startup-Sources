@@ -46,7 +46,6 @@ A list of news resources, Youtube channels, podcasts and blogs which cover the I
 18. [Purple quarter](https://open.spotify.com/show/2TAjn49BDocf5y1cctMQLe?si=YFVTtICjTYqYjZVMvhutUQ&dl_branch=1) A podcast featuringfounders from the tech startup ecosystem. 
 19. [Founders unfiltered](https://open.spotify.com/show/2xJUdpwNKS1VmbtnWXZrE6?si=c91UrD1qTbiF-rPGWZ9YOg&dl_branch=1) Unscripted conversations with startup founders. From the writers of A junior VC blog.
 20. [100x entrepreneuer](https://open.spotify.com/show/73VanEvg9Rhp2SOOJPFaav) Bringing you the best of leaders from the VC & Startup community sharing their mindsets, milestones, and growth stories.
-21. [Startup Story](https://open.spotify.com/show/6XwWYNMA9q8bjfW8UHjp2k?si=827dc0dd880d4f0c) Startup story is a platform designed to promote businesses and entrepreneurs, prioritising ventures that are left overlooked and unrecognised in the Indian startup ecosystem i.e the startups from tier 2, tier 3 and tier 4 cities but are progressively succeeding.
 
 
 If you have any further resources you would like to add, feel free to create an issue or make A PR.
